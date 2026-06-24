@@ -21,10 +21,15 @@ Currently seeking an internship in Data Engineering, Data Analysis, or Backend D
 ## Tech Stack
 
 **Languages:** Python, Java, C, SQL, Bash
+
 **Backend:** FastAPI, Quarkus, SQLAlchemy, REST APIs
+
 **Databases:** PostgreSQL, Supabase
+
 **Data & AI:** Pandas, Jupyter Notebook, spaCy, HuggingFace Transformers, LightGBM, Altair AI
+
 **Tools:** Docker, Git, n8n, Postman, Linux
+
 **Frontend:** React, TypeScript
 
 ---
